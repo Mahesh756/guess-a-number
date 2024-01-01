@@ -1,4 +1,7 @@
-**Welcome to the Number Guessing Game! This web-based game challenges users to guess a randomly generated number between 1 and 20 using JavaScript.**
+# Welcome to the Number Guessing Game!
+
+## Description
+This web-based game challenges users to guess a randomly generated number between 1 and 20 using JavaScript.
 
 **Files**
 
